@@ -1,2 +1,2 @@
-# Brightlearn_Research_Assignment-1
+# Brightlearn_Research_Assignment
 Foundation of Data Analystics and Data Science
